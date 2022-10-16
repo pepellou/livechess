@@ -1,0 +1,11 @@
+{
+	"name": "livechess-bot",
+	"version": "1.0.0",
+	"description": "Live chess broadcast bot",
+	"main": "bot.js",
+	"author": "pepellou",
+	"dependencies": {
+		"date-and-time": "^2.4.1",
+		"discord.js": "^14.6.0"
+	}
+}
